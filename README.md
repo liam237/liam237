@@ -41,7 +41,7 @@ I'm passionate about data science, AI, and turning data into insights. Currently
 ---
 ## 📂 Projets Notables
 
-### 🛒 Analyse des Données Walmart
+### 🛒 Air Paradise
 - 📊 **Objectif** : Creation d'un Chatbot de prediction de prix de billets d'Avion.
 - 🔧 **Technos** : Python(Pandas,...), Jupyter Notebook, Power BI
 - 📌 [Voir le projet](https://github.com/liam237/air_paradise_chatbot)
