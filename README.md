@@ -22,6 +22,20 @@
 
 ---
 
+📂 Featured Projects
+
+🛒 Air Paradise Chatbot - Prediction chatbot for airline ticket prices.
+
+📈 Walmart Data Analysis - Sales data analysis for trend identification.
+
+🎣 Fishing Data Analysis - Insights on marine biodiversity.
+
+🤖 Customer Behavior Prediction - AI model for customer retention.
+
+---
+
 ### 🌎 Let's Connect  
+🚀 Excited to collaborate on innovative Data Science & Machine Learning projects!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/data-williamfonkui/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/liam237)  
