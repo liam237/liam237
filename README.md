@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi, I'm William Fonkui!  
+💻 Aspiring Data Scientist | Python | Machine Learning | Power BI  
+
+🔥 About Me:  
+I'm passionate about data science, AI, and turning data into insights. Currently studying **Data & AI** at **École IT Orléans** and looking for an **apprenticeship** in Data Science.
+
+📌 I'm looking for:  
+- Exciting projects in **Data Science, Machine Learning, and AI**.  
+- Opportunities to work with **Power BI, Python, and predictive modeling**.
+
+🎯 Let's connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/data-williamfonkui/)
