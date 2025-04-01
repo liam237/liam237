@@ -42,19 +42,24 @@ I'm passionate about data science, AI, and turning data into insights. Currently
 ## 📂 Projets Notables
 
 ### 🛒 Analyse des Données Walmart
+- 📊 **Objectif** : Creation d'un Chatbot de prediction de prix de billets d'Avion.
+- 🔧 **Technos** : Python(Pandas,...), Jupyter Notebook, Power BI
+- 📌 [Voir le projet](https://github.com/liam237/air_paradise_chatbot)
+
+### 🛒 Analyse des Données Walmart
 - 📊 **Objectif** : Explorer et analyser les données de ventes pour identifier les tendances et optimiser les stratégies de croissance.
 - 🔧 **Technos** : Python, Jupyter Notebook, Power BI
-- 📌 [Voir le projet](https://github.com/liam237/walmart-data-analysis) *(Ajoute ce lien si le repo existe)*
+- 📌 [Voir le projet](https://github.com/liam237/walmart-data-analysis) 
 
 ### 🎣 Analyse des Captures Annuelles de Poissons et Crustacés
 - 📊 **Objectif** : Étudier l'évolution des captures pour en extraire des insights sur la biodiversité marine.
 - 🔧 **Technos** : R, RStudio, Seaborn, dplyr, RMarkdown
-- 📌 [Voir le projet](https://github.com/liam237/fishing-data-analysis) *(Ajoute ce lien si le repo existe)*
+- 📌 [Voir le projet](https://github.com/liam237/fishing-data-analysis) 
 
 ### 📈 Prédiction du Comportement Client
 - 📊 **Objectif** : Développer un modèle de prédiction pour optimiser les stratégies marketing et la fidélisation des clients.
 - 🔧 **Technos** : Python, Scikit-Learn, Power BI
-- 📌 [Voir le projet](https://github.com/liam237/customer-behavior-prediction) *(Ajoute ce lien si le repo existe)*
+- 📌 [Voir le projet](https://github.com/liam237/customer-behavior-prediction) 
 
 ---
 
