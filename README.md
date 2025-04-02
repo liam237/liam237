@@ -10,6 +10,8 @@
 
 ## 👋 Hi, I'm William Fonkui!  
 
+🚀 *"Turning raw data into actionable insights with AI & Machine Learning!"*
+
 💻 **Aspiring Data Scientist | Python | Machine Learning | Power BI**  
 
 🌱 Currently studying **Data & AI** at **École IT Orléans**  
@@ -29,6 +31,13 @@
 - 🔥 Improving my **Machine Learning** skills
 - 📊 Building **interactive dashboards with Power BI**
 - ☁️ Learning **Azure & Databricks**
+
+---
+
+### 🎓 Certifications & Courses  
+- 🏅 [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)  
+- 📜 Microsoft Azure Fundamentals (AZ-900)  
+- 📊 Data Science with Python - DataCamp  
 
 ---
 
@@ -55,20 +64,23 @@
 
 ---
 
-### 📂 Featured Projects  
-🚀 **Explore my Data Science projects:**  
+### 🚀 Pinned Projects  
 
-| 🚀 Project | 📝 Description | 🛠 Technologies |
-|-----------|-------------|----------------|
-| 🛒 [Air Paradise Chatbot](https://github.com/liam237/air_paradise_chatbot) | AI-powered price prediction chatbot for airline tickets. | Python, Pandas, Jupyter Notebook, Power BI |
-| 📈 [Walmart Data Analysis](https://github.com/liam237/walmart-data-analysis) | Data-driven insights into Walmart sales trends. | Python, Jupyter Notebook, Power BI |
-| 🎣 [Fishing Data Analysis](https://github.com/liam237/fishing-data-analysis) | Study of marine biodiversity and fishing trends. | R, RStudio, Seaborn, dplyr, RMarkdown |
-| 🤖 [Customer Behavior Prediction](https://github.com/liam237/customer-behavior-prediction) | AI model for predicting customer behavior & retention. | Python, Scikit-Learn, Power BI |
+💡 **[Air Paradise Chatbot](https://github.com/liam237/air_paradise_chatbot)**  
+🔹 *AI-powered price prediction chatbot for airline tickets.*  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+---  
+💡 **[Customer Behavior Prediction](https://github.com/liam237/customer-behavior-prediction)**  
+🔹 *AI model for predicting customer behavior & retention.*  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)  
 
 ---
 
-### 🤯 Fun Fact  
-🧠 Did you know? The first AI model was developed in **1956**!
+### 🤯 Did You Know?  
+💡 **Q:** What was the first AI model ever created?  
+🔍 **A:** The first AI model was developed in **1956**, during the Dartmouth Workshop, which marked the birth of Artificial Intelligence!  
 
 ---
 
