@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontColor=black&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontColor=#000000&animation=fadeIn" />
 </p>
 
 ## 👋 Hi, I'm William Fonkui!  
