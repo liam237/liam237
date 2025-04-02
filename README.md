@@ -26,6 +26,18 @@
 
 ---
 
+### 📂 Featured Projects  
+🚀 **Explore my Data Science projects:**  
+
+| 🚀 Project | 📝 Description | 🛠 Technologies |
+|-----------|-------------|----------------|
+| 🛒 [Air Paradise Chatbot](https://github.com/liam237/air_paradise_chatbot) | AI-powered price prediction chatbot for airline tickets. | Python, Pandas, Jupyter Notebook, Power BI |
+| 📈 [Walmart Data Analysis](https://github.com/liam237/walmart-data-analysis) | Data-driven insights into Walmart sales trends. | Python, Jupyter Notebook, Power BI |
+| 🎣 [Fishing Data Analysis](https://github.com/liam237/fishing-data-analysis) | Study of marine biodiversity and fishing trends. | R, RStudio, Seaborn, dplyr, RMarkdown |
+| 🤖 [Customer Behavior Prediction](https://github.com/liam237/customer-behavior-prediction) | AI model for predicting customer behavior & retention. | Python, Scikit-Learn, Power BI |
+
+---
+
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=liam237&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -40,17 +52,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=liam237&theme=radical&margin-w=15&no-frame=true" alt="GitHub Trophies" />
 </p>
 
----
-
-### 📂 Featured Projects  
-🚀 **Explore my Data Science projects:**  
-
-| 🚀 Project | 📝 Description | 🛠 Technologies |
-|-----------|-------------|----------------|
-| 🛒 [Air Paradise Chatbot](https://github.com/liam237/air_paradise_chatbot) | AI-powered price prediction chatbot for airline tickets. | Python, Pandas, Jupyter Notebook, Power BI |
-| 📈 [Walmart Data Analysis](https://github.com/liam237/walmart-data-analysis) | Data-driven insights into Walmart sales trends. | Python, Jupyter Notebook, Power BI |
-| 🎣 [Fishing Data Analysis](https://github.com/liam237/fishing-data-analysis) | Study of marine biodiversity and fishing trends. | R, RStudio, Seaborn, dplyr, RMarkdown |
-| 🤖 [Customer Behavior Prediction](https://github.com/liam237/customer-behavior-prediction) | AI model for predicting customer behavior & retention. | Python, Scikit-Learn, Power BI |
 
 ---
 
