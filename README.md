@@ -33,9 +33,41 @@
 ---
 
 ### 🛠 Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,powerbi,scikitlearn,azure,sql,databricks,r,git,github,docker,flask" />
-</p>
+#### 🖥️ Programming & Scripting  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
+
+#### 📊 Data & Analytics  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-007FFF?style=flat&logo=seaborn&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)  
+![XGBoost](https://img.shields.io/badge/XGBoost-FF7F00?style=flat&logo=xgboost&logoColor=white)  
+![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=flat)  
+![Linear Regression](https://img.shields.io/badge/Linear%20Regression-0000FF?style=flat)  
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF4500?style=flat)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)  
+
+#### 🌐 Web Development  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
+
+#### ☁️ Cloud & DevOps  
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)  
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
+![CI/CD](https://img.shields.io/badge/CI/CD-FF9900?style=flat)  
+
+#### 🛠️ Tools & Version Control  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
