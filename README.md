@@ -25,6 +25,11 @@
 
 ---
 
+### 💡 Inspiration  
+📌 *"Without data, you’re just another person with an opinion."* – W. Edwards Deming  
+
+---
+
 ### 🚧 What I'm Working On
 - 🔥 Improving my **Machine Learning** skills
 - 📊 Building **interactive dashboards with Power BI**
