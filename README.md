@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Recruters!;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Power+BI+Developer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Power+BI+Developer&center=true&width=500&height=50">
 </p>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=liam237&color=blue)
