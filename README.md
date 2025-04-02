@@ -2,6 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontColor=333333&animation=fadeIn" alt="Welcome to My GitHub">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Power+BI+Developer&center=true&width=500&height=50">
+</p>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=liam237&color=blue)
+
 ## 👋 Hi, I'm William Fonkui!  
 
 💻 **Aspiring Data Scientist | Python | Machine Learning | Power BI**  
@@ -16,6 +22,13 @@
 - 🎯 Focused on **Machine Learning, Predictive Analytics, and Data Visualization**.
 - 📊 Enthusiastic about **Power BI, Python, and Cloud Technologies**.
 - 🌍 Open to collaborating on impactful **open-source projects**.
+
+---
+
+### 🚧 What I'm Working On
+- 🔥 Improving my **Machine Learning** skills
+- 📊 Building **interactive dashboards with Power BI**
+- ☁️ Learning **Azure & Databricks**
 
 ---
 
@@ -54,6 +67,11 @@
 
 ---
 
+### 🤯 Fun Fact  
+🧠 Did you know? The first AI model was developed in **1956**!
+
+---
+
 ### 🌎 Let's Connect  
 <p align="center">
   <a href="https://www.linkedin.com/in/data-williamfonkui/">
@@ -64,5 +82,8 @@
   </a>
 </p>
 
-🚀 *Excited to collaborate on innovative Data Science & Machine Learning projects!*
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500">
+</p>
 
+🚀 *Excited to collaborate on innovative Data Science & Machine Learning projects!*
