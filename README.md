@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontColor=black&animation=fadeIn" />
 </p>
 
 ## 👋 Hi, I'm William Fonkui!  
@@ -26,6 +26,22 @@
 
 ---
 
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=liam237&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liam237&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liam237&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=liam237&theme=radical&margin-w=15&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+---
+
 ### 📂 Featured Projects  
 🚀 **Explore my Data Science projects:**  
 
@@ -35,24 +51,6 @@
 | 📈 [Walmart Data Analysis](https://github.com/liam237/walmart-data-analysis) | Data-driven insights into Walmart sales trends. | Python, Jupyter Notebook, Power BI |
 | 🎣 [Fishing Data Analysis](https://github.com/liam237/fishing-data-analysis) | Study of marine biodiversity and fishing trends. | R, RStudio, Seaborn, dplyr, RMarkdown |
 | 🤖 [Customer Behavior Prediction](https://github.com/liam237/customer-behavior-prediction) | AI model for predicting customer behavior & retention. | Python, Scikit-Learn, Power BI |
-
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liam237&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liam237&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liam237&theme=radical" alt="GitHub Streak" /> </a>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=liam237&theme=radical&margin-w=15&no-frame=true" alt="GitHub Trophies" />
-</p>
-
 
 ---
 
