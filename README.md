@@ -51,11 +51,6 @@
 
 ---
 
-### 🌆 GitHub Skyline  
-[![GitHub Skyline](https://skyline.github.com/liam237/2023)](https://skyline.github.com/liam237/2023)  
-
----
-
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=liam237&show_icons=true&theme=radical" alt="GitHub Stats" />
