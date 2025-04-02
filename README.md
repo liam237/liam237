@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Power+BI+Developer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Recruters!;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Power+BI+Developer&center=true&width=500&height=50">
 </p>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=liam237&color=blue)
@@ -39,6 +39,23 @@
 
 ---
 
+### 📂 Featured Projects  
+🚀 **Explore my Data Science projects:**  
+
+| 🚀 Project | 📝 Description | 🛠 Technologies |
+|-----------|-------------|----------------|
+| 🛒 [Air Paradise Chatbot](https://github.com/liam237/air_paradise_chatbot) | AI-powered price prediction chatbot for airline tickets. | Python, Pandas, Jupyter Notebook, Power BI |
+| 📈 [Walmart Data Analysis](https://github.com/liam237/walmart-data-analysis) | Data-driven insights into Walmart sales trends. | Python, Jupyter Notebook, Power BI |
+| 🎣 [Fishing Data Analysis](https://github.com/liam237/fishing-data-analysis) | Study of marine biodiversity and fishing trends. | R, RStudio, Seaborn, dplyr, RMarkdown |
+| 🤖 [Customer Behavior Prediction](https://github.com/liam237/customer-behavior-prediction) | AI model for predicting customer behavior & retention. | Python, Scikit-Learn, Power BI |
+
+---
+
+### 🌆 GitHub Skyline  
+[![GitHub Skyline](https://skyline.github.com/liam237/2023)](https://skyline.github.com/liam237/2023)  
+
+---
+
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=liam237&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -55,20 +72,17 @@
 
 ---
 
-### 📂 Featured Projects  
-🚀 **Explore my Data Science projects:**  
-
-| 🚀 Project | 📝 Description | 🛠 Technologies |
-|-----------|-------------|----------------|
-| 🛒 [Air Paradise Chatbot](https://github.com/liam237/air_paradise_chatbot) | AI-powered price prediction chatbot for airline tickets. | Python, Pandas, Jupyter Notebook, Power BI |
-| 📈 [Walmart Data Analysis](https://github.com/liam237/walmart-data-analysis) | Data-driven insights into Walmart sales trends. | Python, Jupyter Notebook, Power BI |
-| 🎣 [Fishing Data Analysis](https://github.com/liam237/fishing-data-analysis) | Study of marine biodiversity and fishing trends. | R, RStudio, Seaborn, dplyr, RMarkdown |
-| 🤖 [Customer Behavior Prediction](https://github.com/liam237/customer-behavior-prediction) | AI model for predicting customer behavior & retention. | Python, Scikit-Learn, Power BI |
+### 🤯 Fun Fact  
+🧠 Did you know? The first AI model was developed in **1956**!
+<details>
+  <summary>Click to reveal the answer</summary>
+  🔍 **A:** The first AI model was developed in **1956**, during the Dartmouth Workshop, which marked the birth of Artificial Intelligence!
+</details>
 
 ---
 
-### 🤯 Fun Fact  
-🧠 Did you know? The first AI model was developed in **1956**!
+### 📩 Contact Me  
+💬 Feel free to **[reach out to me](https://forms.gle/EXAMPLE-LINK)** for collaborations or projects!  
 
 ---
 
