@@ -6,45 +6,52 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Power+BI+Developer&center=true&width=500&height=50">
 </p>
 
+<!-- Button to download CV (placed top-right) -->
+<p align="right">
+  <a href="https://github.com/liam237/liam237/blob/main/William_Fonkui.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20Download%20My%20CV-blue?style=for-the-badge" alt="Download CV"/>
+  </a>
+</p>
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=liam237&color=blue)
 
-## 👋 Hi, I'm William Fonkui!
+## 👋 Hi, I'm William Fonkui!  
 
-💻 **Aspiring Data Scientist | Python | Machine Learning | Power BI**
+💻 **Aspiring Data Scientist | Python | Machine Learning | Power BI**  
 
-🎓 Currently studying **Data & AI** at **École IT Orléans**  
-🚀 Looking for an **apprenticeship** in Data Science
+🌱 Currently studying **Data & AI** at **École IT Orléans**  
+🚀 Looking for an **apprenticeship** in Data Science  
 
 ---
 
 ### 🚀 About Me
-- 🔍 Passionate about AI, Data Science, and transforming data into insights
-- 🎯 Focused on **Machine Learning, Predictive Analytics, and Data Visualization**
-- 📊 Enthusiastic about **Power BI, Python, and Cloud Technologies**
-- 🌍 Open to collaborating on impactful **open-source projects**
+- 🔍 Passionate about AI, Data Science, and transforming data into insights.
+- 🎯 Focused on **Machine Learning, Predictive Analytics, and Data Visualization**.
+- 📊 Enthusiastic about **Power BI, Python, and Cloud Technologies**.
+- 🌍 Open to collaborating on impactful **open-source projects**.
 
 ---
 
-### 💡 Inspiration
-📌 *"Without data, you’re just another person with an opinion."* – W. Edwards Deming
+### 💡 Inspiration  
+📌 *"Without data, you’re just another person with an opinion."* – W. Edwards Deming  
 
 ---
 
-### 🚧 Currently Working On
-- 🔥 Sharpening my **Machine Learning** skills
-- 📊 Creating **interactive dashboards** with Power BI
-- ☁️ Learning **Azure** & **Databricks**
+### 🚧 What I'm Working On
+- 🔥 Improving my **Machine Learning** skills
+- 📊 Building **interactive dashboards with Power BI**
+- ☁️ Learning **Azure & Databricks**
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack  
 <table>
   <tr>
-    <th>Programming</th>
+    <th>Programming & Scripting</th>
     <th>Data & Analytics</th>
     <th>Web Development</th>
     <th>Cloud & DevOps</th>
-    <th>Tools</th>
+    <th>Tools & Version Control</th>
   </tr>
   <tr>
     <td>
@@ -88,26 +95,26 @@
 
 ---
 
-### 📂 Featured Projects
-🚀 **Explore some of my work:**
+### 📂 Featured Projects  
+🚀 **Explore my Data Science projects:**  
 
 | 🚀 Project | 📝 Description | 🛠 Technologies |
-|-----------|----------------|----------------|
-| 🛒 [Air Paradise Chatbot](https://github.com/liam237/air_paradise_chatbot) | AI chatbot for flight price prediction | Python, Pandas, Jupyter, Power BI |
-| 📈 [Walmart Data Analysis](https://github.com/liam237/walmart-data-analysis) | Sales trends and data-driven insights | Python, Jupyter, Power BI |
-| 🎣 [Fishing Data Analysis](https://github.com/liam237/fishing-data-analysis) | Marine biodiversity and fishing data analysis | R, dplyr, Seaborn, RMarkdown |
-| 🤖 [Customer Behavior Prediction](https://github.com/liam237/customer-behavior-prediction) | Predicting customer retention behavior | Python, Scikit-Learn, Power BI |
+|-----------|-------------|----------------|
+| 🛒 [Air Paradise Chatbot](https://github.com/liam237/air_paradise_chatbot) | AI-powered price prediction chatbot for airline tickets. | Python, Pandas, Jupyter Notebook, Power BI |
+| 📈 [Walmart Data Analysis](https://github.com/liam237/walmart-data-analysis) | Data-driven insights into Walmart sales trends. | Python, Jupyter Notebook, Power BI |
+| 🎣 [Fishing Data Analysis](https://github.com/liam237/fishing-data-analysis) | Study of marine biodiversity and fishing trends. | R, RStudio, Seaborn, dplyr, RMarkdown |
+| 🤖 [Customer Behavior Prediction](https://github.com/liam237/customer-behavior-prediction) | AI model for predicting customer behavior & retention. | Python, Scikit-Learn, Power BI |
 
 ---
 
-### 📄 My Resume
+### 📄 CV
 
-📥 **Download my resume (PDF):**  
-[![Download CV](https://img.shields.io/badge/Download-Resume-blue)](https://github.com/liam237/liam237/blob/main/William_Fonkui.pdf)
+📥 **Download My CV (PDF)**:  
+[![Download CV](https://img.shields.io/badge/Télécharger-CV-blue)](https://github.com/liam237/liam237/blob/main/William_Fonkui.pdf)
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=liam237&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liam237&layout=compact&theme=radical" alt="Top Languages" />
@@ -123,20 +130,21 @@
 
 ---
 
-### 🤯 Fun Fact of the Month
+### 🤯 Fun Fact  
+🧠 Did you know? The first AI model was developed in **1956**!
 <details>
-  <summary>🧠 Click to reveal!</summary>
-  🔍 **Did you know?** The term 'Data Science' was coined in 2001!
+  <summary>Click to reveal the answer</summary>
+  🔍 **A:** The first AI model was developed in **1956**, during the Dartmouth Workshop, which marked the birth of Artificial Intelligence!
 </details>
 
 ---
 
-### 📬 Contact Me
-💬 Fill out this [form](https://forms.gle/EXAMPLE-LINK) or send me an email at **williamfonkui@outlook.fr**
+### 📩 Contact Me  
+💬 Feel free to **[reach out to me](mailto:williamfonkui@outlook.fr)** for collaborations or projects!  
 
 ---
 
-### 🌍 Let's Connect
+### 🌎 Let's Connect  
 <p align="center">
   <a href="https://www.linkedin.com/in/data-williamfonkui/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
