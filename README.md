@@ -88,6 +88,8 @@
 
 ---
 
+
+
 ### 📂 Featured Projects  
 🚀 **Explore my Data Science projects:**  
 
@@ -97,6 +99,13 @@
 | 📈 [Walmart Data Analysis](https://github.com/liam237/walmart-data-analysis) | Data-driven insights into Walmart sales trends. | Python, Jupyter Notebook, Power BI |
 | 🎣 [Fishing Data Analysis](https://github.com/liam237/fishing-data-analysis) | Study of marine biodiversity and fishing trends. | R, RStudio, Seaborn, dplyr, RMarkdown |
 | 🤖 [Customer Behavior Prediction](https://github.com/liam237/customer-behavior-prediction) | AI model for predicting customer behavior & retention. | Python, Scikit-Learn, Power BI |
+
+---
+
+### 📄 Mon CV
+
+📥 **Télécharger mon CV au format PDF :**  
+[![Download CV](https://img.shields.io/badge/Télécharger-CV-blue)](https://github.com/liam237/liam237/blob/main/William_Fonkui_CV.pdf)
 
 ---
 
