@@ -105,7 +105,7 @@
 ### 📄 Mon CV
 
 📥 **Télécharger mon CV au format PDF :**  
-[![Download CV](https://img.shields.io/badge/Télécharger-CV-blue)](https://github.com/liam237/liam237/blob/main/William_Fonkui_CV.pdf)
+[![Download CV](https://img.shields.io/badge/Télécharger-CV-blue)](https://github.com/liam237/liam237/blob/main/William_Fonkui.pdf)
 
 ---
 
