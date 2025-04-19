@@ -9,7 +9,6 @@
 <!-- Button to download CV (placed top-right) -->
 <p align="right">
   <a href="https://github.com/liam237/liam237/blob/main/William_Fonkui.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20Download%20My%20CV-blue?style=for-the-badge" alt="Download CV"/>
     <img src="https://img.shields.io/badge/📄 Télécharger%20mon%20CV-bleu?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
   </a>
 </p>
@@ -139,11 +138,9 @@
 </details>
 
 ---
-
+ 
 ### 📩 Contact Me  
-💬 Feel free to **[reach out to me](mailto:williamfonkui@outlook.fr)** for collaborations or projects! 
-### 📩 Contact Me  
-💬 Reach out via [this form](https://forms.gle/TON_LIEN_ICI) or email me directly at **williamfonkui@outlook.fr**
+💬 Reach out via [this form](https://forms.gle/TON_LIEN_ICI) for collaborations/projects or email me directly at **williamfonkui@outlook.fr** !
 
 ---
 
