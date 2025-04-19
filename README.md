@@ -9,14 +9,14 @@
 <!-- Button to download CV (placed top-right) -->
 <div>
 <p align="right">
-  <a href="https://github.com/liam237/liam237/blob/main/William_Fonkui.pdf">
+  <a href="https://github.com/liam237/liam237/blob/main/William_Fonkui.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄 Télécharger%20mon%20CV-bleu?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
   </a>
 </p>
 </div>
 <div>
   <p align="right">
-    <a href="https://forms.gle/L31yDHKAx9y9tyyQ8">
+    <a href="https://forms.gle/L31yDHKAx9y9tyyQ8" target="_blank">
       <img src="https://img.shields.io/badge/Contact-William%20Fonkui-blue?style=for-the-badge">
     </a>
   </p>
@@ -157,10 +157,10 @@
 
 ### 🌎 Let's Connect  
 <p align="center">
-  <a href="https://www.linkedin.com/in/data-williamfonkui/">
+  <a href="https://www.linkedin.com/in/data-williamfonkui/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
-  <a href="https://github.com/liam237">
+  <a href="https://github.com/liam237" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github" />
   </a>
 </p>
