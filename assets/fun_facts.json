@@ -1,58 +1,58 @@
 [
     {
-        "question": "The first computer programmer was a woman: Ada Lovelace in 1843.",
-        "answer": "The first computer programmer was a woman: Ada Lovelace in 1843."
+        "question": "Who is considered the first computer programmer?",
+        "answer": "Ada Lovelace, in 1843, for her work on Charles Babbage’s analytical engine."
     },
     {
-        "question": "The term 'bug' in computing comes from an actual insect found in a computer in 1947.",
-        "answer": "The term 'bug' in computing comes from an actual insect found in a computer in 1947."
+        "question": "Why is a software error called a 'bug'?",
+        "answer": "Because an actual moth was found in a Harvard computer in 1947, causing a malfunction."
     },
     {
-        "question": "More data is created every two days today than from the dawn of civilization to 2003.",
-        "answer": "More data is created every two days today than from the dawn of civilization to 2003."
+        "question": "Which algorithm powers most YouTube recommendations?",
+        "answer": "Recommendation systems using collaborative filtering and deep learning."
     },
     {
-        "question": "The Python language is named after 'Monty Python', not the snake 🐍.",
-        "answer": "The Python language is named after 'Monty Python', not the snake 🐍."
+        "question": "Which programming language is named after a comedy group?",
+        "answer": "Python, named after 'Monty Python's Flying Circus'."
     },
     {
-        "question": "AlphaGo was the first AI to beat a human champion at the game of Go.",
-        "answer": "AlphaGo was the first AI to beat a human champion at the game of Go."
+        "question": "What AI defeated a Go world champion in 2016?",
+        "answer": "AlphaGo, developed by DeepMind, defeated Lee Sedol using deep reinforcement learning."
     },
     {
-        "question": "Stack Overflow gets over 100 million visits each month.",
-        "answer": "Stack Overflow gets over 100 million visits each month."
+        "question": "What does 'ETL' stand for in data pipelines?",
+        "answer": "Extract, Transform, Load."
     },
     {
-        "question": "Recommendation algorithms drive more than 70% of YouTube views.",
-        "answer": "Recommendation algorithms drive more than 70% of YouTube views."
+        "question": "What does 'overfitting' mean in machine learning?",
+        "answer": "When a model performs well on training data but poorly on unseen data."
     },
     {
-        "question": "Data is often called 'the new oil' of the 21st century.",
-        "answer": "Data is often called 'the new oil' of the 21st century."
+        "question": "What’s the main difference between supervised and unsupervised learning?",
+        "answer": "Supervised learning uses labeled data; unsupervised learning does not."
     },
     {
-        "question": "In 2020, 59 zettabytes of data were created globally. (1 ZB = 1 billion TB!)",
-        "answer": "In 2020, 59 zettabytes of data were created globally. (1 ZB = 1 billion TB!)"
+        "question": "What type of data visualization is best for showing trends over time?",
+        "answer": "A line chart."
     },
     {
-        "question": "Machine learning is used to detect fraud in real-time.",
-        "answer": "Machine learning is used to detect fraud in real-time."
+        "question": "Which library is widely used in Python for data manipulation?",
+        "answer": "Pandas."
     },
     {
-        "question": "Artificial neural networks are inspired by how the human brain works.",
-        "answer": "Artificial neural networks are inspired by how the human brain works."
+        "question": "What is the purpose of a confusion matrix?",
+        "answer": "To evaluate classification model performance by showing true/false positives and negatives."
     },
     {
-        "question": "Every minute, over 500 hours of video are uploaded to YouTube!",
-        "answer": "Every minute, over 500 hours of video are uploaded to YouTube!"
+        "question": "What does 'dimensionality reduction' help with?",
+        "answer": "Reducing the number of input variables to improve model performance and reduce overfitting."
     },
     {
-        "question": "The first 1GB hard drive, introduced in 1980, weighed over 500 pounds.",
-        "answer": "The first 1GB hard drive, introduced in 1980, weighed over 500 pounds."
+        "question": "Which language is mostly used in statistical analysis and academia?",
+        "answer": "R."
     },
     {
-        "question": "The first computer mouse was made of wood and invented by Douglas Engelbart in 1964.",
-        "answer": "The first computer mouse was made of wood and invented by Douglas Engelbart in 1964."
+        "question": "What is the difference between precision and recall?",
+        "answer": "Precision is the percentage of true positives out of predicted positives; recall is the percentage of true positives out of actual positives."
     }
 ]
