@@ -7,14 +7,27 @@
 </p>
 
 <!-- Button to download CV (placed top-right) -->
+<div>
 <p align="right">
   <a href="https://github.com/liam237/liam237/blob/main/William_Fonkui.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄 Télécharger%20mon%20CV-bleu?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
   </a>
 </p>
+</div>
+<div>
+  <p align="right">
+    <a href="https://forms.gle/L31yDHKAx9y9tyyQ8">
+      <img src="https://img.shields.io/badge/📬_Contact-William%20Fonkui-blue?style=for-the-badge">
+    </a>
+  </p>
+</div>
+
+[![Contact me](https://img.shields.io/badge/📬_Contact-William%20Fonkui-blue?style=for-the-badge)](https://forms.gle/L31yDHKAx9y9tyyQ8)
+
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=liam237&color=blue)
-[![Contact me](https://img.shields.io/badge/📬_Contact-William%20Fonkui-blue?style=for-the-badge)](https://forms.gle/tonLienGoogleFormIci)
+
 
 ## 👋 Hi, I'm William Fonkui!  
 
