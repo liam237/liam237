@@ -3,7 +3,7 @@ name: Monthly Fun Fact Update
 on:
   schedule:
     - cron: '0 8 1 * *'  # Tous les 1ers du mois à 08:00 UTC
-  workflow_dispatch:     # Pour pouvoir aussi le lancer manuellement
+  workflow_dispatch:
 
 jobs:
   update-fun-fact:
@@ -12,11 +12,13 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.9 
+          python-version: 3.10
 
       - name: Install dependencies
         run: pip install --upgrade pip
@@ -24,14 +26,13 @@ jobs:
       - name: Run fun fact updater
         run: python update_fun_facts.py
 
-      - name: Commit changes
+      - name: Configure Git
         run: |
-          git config --local user.name "github-actions[bot]"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
-      - name: Pull latest changes before commit
-        run: git pull --rebase
+
+      - name: Pull latest changes
+        run: git pull --rebase origin main
 
       - name: Commit and push if README has changed
         run: |
@@ -41,5 +42,3 @@ jobs:
             git push
           else
             echo "✅ No changes to commit."
-          fi
-
