@@ -24,7 +24,7 @@ jobs:
         run: pip install --upgrade pip
 
       - name: Run fun fact updater
-        run: python update_fun_fact.py
+        run: python update_fun_facts.py
 
       - name: Configure Git
         run: |
