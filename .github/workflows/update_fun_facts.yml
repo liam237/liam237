@@ -16,7 +16,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.14.0  
+          python-version: 3.9 
 
       - name: Install dependencies
         run: pip install --upgrade pip
@@ -32,12 +32,4 @@ jobs:
           git add README.md
           git commit -m "🔁 Update Fun Fact of the Month"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GIT_AUTHOR_NAME: github-actions[bot]
-          GIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
-          GIT_COMMITTER_NAME: github-actions[bot]
-          GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
-          GIT_PUSH_OPTIONS: --force-with-lease
-          GIT_PUSH_URL: https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          GIT_BRANCH: main  # Changez cela si votre branche principale est différente
+
