@@ -131,10 +131,10 @@
 ---
 
 ### 🤯 Fun Fact  
-🧠 Did you know? The first AI model was developed in **1956**!
+🧠 Did you know? The Python language is named after 'Monty Python', not the snake 🐍.  
 <details>
-  <summary>Click to reveal the answer</summary>
-  🔍 **A:** The first AI model was developed in **1956**, during the Dartmouth Workshop, which marked the birth of Artificial Intelligence!
+    <summary>Click to reveal the answer</summary>
+  🔍 **A:** The Python language is named after 'Monty Python', not the snake 🐍.
 </details>
 
 ---
