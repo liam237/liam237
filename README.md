@@ -11,11 +11,10 @@
   <a href="https://github.com/liam237/liam237/blob/main/William_Fonkui.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄 Télécharger%20mon%20CV-bleu?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
   </a>
-  [![Contact me](https://img.shields.io/badge/📬_Contact-William%20Fonkui-blue?style=for-the-badge)](https://forms.gle/tonLienGoogleFormIci)
-
 </p>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=liam237&color=blue)
+[![Contact me](https://img.shields.io/badge/📬_Contact-William%20Fonkui-blue?style=for-the-badge)](https://forms.gle/tonLienGoogleFormIci)
 
 ## 👋 Hi, I'm William Fonkui!  
 
