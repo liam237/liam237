@@ -1,16 +1,58 @@
 [
-    "The first computer programmer was a woman: Ada Lovelace in 1843.",
-    "The term 'bug' in computing comes from an actual insect found in a computer in 1947.",
-    "More data is created every two days today than from the dawn of civilization to 2003.",
-    "The Python language is named after 'Monty Python', not the snake 🐍.",
-    "AlphaGo was the first AI to beat a human champion at the game of Go.",
-    "Stack Overflow gets over 100 million visits each month.",
-    "Recommendation algorithms drive more than 70% of YouTube views.",
-    "Data is often called 'the new oil' of the 21st century.",
-    "In 2020, 59 zettabytes of data were created globally. (1 ZB = 1 billion TB!)",
-    "Machine learning is used to detect fraud in real-time.",
-    "Artificial neural networks are inspired by how the human brain works.",
-    "Every minute, over 500 hours of video are uploaded to YouTube!",
-    "The first 1GB hard drive, introduced in 1980, weighed over 500 pounds.",
-    "The first computer mouse was made of wood and invented by Douglas Engelbart in 1964."
+    {
+        "question": "The first computer programmer was a woman: Ada Lovelace in 1843.",
+        "answer": "The first computer programmer was a woman: Ada Lovelace in 1843."
+    },
+    {
+        "question": "The term 'bug' in computing comes from an actual insect found in a computer in 1947.",
+        "answer": "The term 'bug' in computing comes from an actual insect found in a computer in 1947."
+    },
+    {
+        "question": "More data is created every two days today than from the dawn of civilization to 2003.",
+        "answer": "More data is created every two days today than from the dawn of civilization to 2003."
+    },
+    {
+        "question": "The Python language is named after 'Monty Python', not the snake 🐍.",
+        "answer": "The Python language is named after 'Monty Python', not the snake 🐍."
+    },
+    {
+        "question": "AlphaGo was the first AI to beat a human champion at the game of Go.",
+        "answer": "AlphaGo was the first AI to beat a human champion at the game of Go."
+    },
+    {
+        "question": "Stack Overflow gets over 100 million visits each month.",
+        "answer": "Stack Overflow gets over 100 million visits each month."
+    },
+    {
+        "question": "Recommendation algorithms drive more than 70% of YouTube views.",
+        "answer": "Recommendation algorithms drive more than 70% of YouTube views."
+    },
+    {
+        "question": "Data is often called 'the new oil' of the 21st century.",
+        "answer": "Data is often called 'the new oil' of the 21st century."
+    },
+    {
+        "question": "In 2020, 59 zettabytes of data were created globally. (1 ZB = 1 billion TB!)",
+        "answer": "In 2020, 59 zettabytes of data were created globally. (1 ZB = 1 billion TB!)"
+    },
+    {
+        "question": "Machine learning is used to detect fraud in real-time.",
+        "answer": "Machine learning is used to detect fraud in real-time."
+    },
+    {
+        "question": "Artificial neural networks are inspired by how the human brain works.",
+        "answer": "Artificial neural networks are inspired by how the human brain works."
+    },
+    {
+        "question": "Every minute, over 500 hours of video are uploaded to YouTube!",
+        "answer": "Every minute, over 500 hours of video are uploaded to YouTube!"
+    },
+    {
+        "question": "The first 1GB hard drive, introduced in 1980, weighed over 500 pounds.",
+        "answer": "The first 1GB hard drive, introduced in 1980, weighed over 500 pounds."
+    },
+    {
+        "question": "The first computer mouse was made of wood and invented by Douglas Engelbart in 1964.",
+        "answer": "The first computer mouse was made of wood and invented by Douglas Engelbart in 1964."
+    }
 ]

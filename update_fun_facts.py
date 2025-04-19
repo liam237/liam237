@@ -1,33 +1,39 @@
 import json
+import random
 from datetime import datetime
 
-# Load fun facts from assets folder
-with open("assets/fun_facts.json", "r", encoding="utf-8") as f:
+# Chemin vers le fichier README
+readme_path = "README.md"
+# Chemin vers le fichier JSON contenant les fun facts
+fun_facts_path = "assets/fun_facts.json"
+
+# Charger les fun facts
+with open(fun_facts_path, "r", encoding="utf-8") as f:
     fun_facts = json.load(f)
 
-# Select fun fact based on the current month
-current_month = datetime.now().month - 1
-fun_fact = fun_facts[current_month]
+# Choisir un fun fact selon le mois
+current_month = datetime.now().month
+fun_fact = fun_facts[(current_month - 1) % len(fun_facts)]
 
-# Read the README
-with open("README.md", "r", encoding="utf-8") as f:
-    lines = f.readlines()
+# Créer le bloc markdown à insérer
+new_block = f"""### 🤯 Fun Fact  
+🧠 Did you know? {fun_fact['question']}  
+<details>
+    <summary>Click to reveal the answer</summary>
+  🔍 **A:** {fun_fact['answer']}
+</details>"""
 
-# Find and replace Fun Fact block
-start_tag = "### 🤯 Fun Fact"
-start_idx = None
-for i, line in enumerate(lines):
-    if start_tag in line:
-        start_idx = i
-        break
+# Lire le README
+with open(readme_path, "r", encoding="utf-8") as f:
+    content = f.read()
 
-if start_idx is not None:
-    end_idx = start_idx + 5  # assume Fun Fact block has 5 lines
-    lines[start_idx:end_idx] = [
-        "### 🤯 Fun Fact\n",
-        f"🧠 Did you know? {fun_fact}\n"
-    ]
+# Remplacer l'ancien bloc Fun Fact (entre les délimiteurs "---\n### 🤯 Fun Fact" et la ligne suivante "---")
+import re
+pattern = r"### 🤯 Fun Fact[\s\S]*?<details>[\s\S]*?</details>"
+updated_content = re.sub(pattern, new_block, content)
 
-# Write back to README
-with open("README.md", "w", encoding="utf-8") as f:
-    f.writelines(lines)
+# Écrire les modifications
+with open(readme_path, "w", encoding="utf-8") as f:
+    f.write(updated_content)
+
+print("✅ Fun Fact successfully updated!")
