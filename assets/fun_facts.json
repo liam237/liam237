@@ -28,7 +28,7 @@
         "answer": "When a model performs well on training data but poorly on unseen data."
     },
     {
-        "question": "What’s the main difference between supervised and unsupervised learning?",
+        "question": "What's the main difference between supervised and unsupervised learning?",
         "answer": "Supervised learning uses labeled data; unsupervised learning does not."
     },
     {
