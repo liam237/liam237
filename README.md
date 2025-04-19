@@ -131,10 +131,10 @@
 ---
 
 ### 🤯 Fun Fact  
-🧠 Did you know? The Python language is named after 'Monty Python', not the snake 🐍.  
+🧠 Did you know? Which programming language is named after a comedy group?  
 <details>
     <summary>Click to reveal the answer</summary>
-  🔍 **A:** The Python language is named after 'Monty Python', not the snake 🐍.
+  🔍 **A:** Python, named after 'Monty Python's Flying Circus'.
 </details>
 
 ---
