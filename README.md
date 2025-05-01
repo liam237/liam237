@@ -142,10 +142,10 @@
 ---
 
 ### 🤯 Fun Fact  
-🧠 Did you know? Which programming language is named after a comedy group?  
+🧠 Did you know? What AI defeated a Go world champion in 2016?  
 <details>
     <summary>Click to reveal the answer</summary>
-  🔍 **A:** Python, named after 'Monty Python's Flying Circus'.
+  🔍 **A:** AlphaGo, developed by DeepMind, defeated Lee Sedol using deep reinforcement learning.
 </details>
 
 ---
