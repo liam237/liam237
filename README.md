@@ -142,10 +142,10 @@
 ---
 
 ### 🤯 Fun Fact  
-🧠 Did you know? What AI defeated a Go world champion in 2016?  
+🧠 Did you know? What does 'ETL' stand for in data pipelines?  
 <details>
     <summary>Click to reveal the answer</summary>
-  🔍 **A:** AlphaGo, developed by DeepMind, defeated Lee Sedol using deep reinforcement learning.
+  🔍 **A:** Extract, Transform, Load.
 </details>
 
 ---
