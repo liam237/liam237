@@ -142,10 +142,10 @@
 ---
 
 ### 🤯 Fun Fact  
-🧠 Did you know? What does 'ETL' stand for in data pipelines?  
+🧠 Did you know? What does 'overfitting' mean in machine learning?  
 <details>
     <summary>Click to reveal the answer</summary>
-  🔍 **A:** Extract, Transform, Load.
+  🔍 **A:** When a model performs well on training data but poorly on unseen data.
 </details>
 
 ---
