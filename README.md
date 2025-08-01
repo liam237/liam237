@@ -142,10 +142,10 @@
 ---
 
 ### 🤯 Fun Fact  
-🧠 Did you know? What does 'overfitting' mean in machine learning?  
+🧠 Did you know? What's the main difference between supervised and unsupervised learning?  
 <details>
     <summary>Click to reveal the answer</summary>
-  🔍 **A:** When a model performs well on training data but poorly on unseen data.
+  🔍 **A:** Supervised learning uses labeled data; unsupervised learning does not.
 </details>
 
 ---
