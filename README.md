@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Power+BI+Developer&center=true&width=500&height=50">
 </p>
 
-<!-- Button to download CV (placed top-right) -->
 <div>
 <p align="right">
   <a href="https://github.com/liam237/liam237/blob/main/William_Fonkui.pdf" target="_blank">
@@ -36,10 +35,10 @@
 ---
 
 ### 🚀 About Me
-- 🔍 Passionate about AI, Data Science, and transforming data into insights.
-- 🎯 Focused on **Machine Learning, Predictive Analytics, and Data Visualization**.
-- 📊 Enthusiastic about **Power BI, Python, and Cloud Technologies**.
-- 🌍 Open to collaborating on impactful **open-source projects**.
+- Passionate about AI, Data Science, and transforming data into insights.
+- Focused on **Machine Learning, Predictive Analytics, and Data Visualization**.
+- Enthusiastic about **Power BI, Python, and Cloud Technologies**.
+- Open to collaborating on impactful **open-source projects**.
 
 ---
 
@@ -49,9 +48,9 @@
 ---
 
 ### 🚧 What I'm Working On
-- 🔥 Improving my **Machine Learning** skills
-- 📊 Building **interactive dashboards with Power BI**
-- ☁️ Learning **Azure & Databricks**
+- Improving my **Machine Learning** skills
+- Building **interactive dashboards with Power BI**
+- Learning **Azure & Databricks**
 
 ---
 
@@ -107,14 +106,14 @@
 ---
 
 ### 📂 Featured Projects  
-🚀 **Explore my Data Science projects:**  
+**Explore my Data Science projects:**  
 
-| 🚀 Project | 📝 Description | 🛠 Technologies |
+| Project | Description | Technologies |
 |-----------|-------------|----------------|
-| 🛒 [Air Paradise Chatbot](https://github.com/liam237/air_paradise_chatbot) | AI-powered price prediction chatbot for airline tickets. | Python, Pandas, Jupyter Notebook, Power BI |
-| 📈 [Walmart Data Analysis](https://github.com/liam237/walmart-data-analysis) | Data-driven insights into Walmart sales trends. | Python, Jupyter Notebook, Power BI |
-| 🎣 [Fishing Data Analysis](https://github.com/liam237/fishing-data-analysis) | Study of marine biodiversity and fishing trends. | R, RStudio, Seaborn, dplyr, RMarkdown |
-| 🤖 [Customer Behavior Prediction](https://github.com/liam237/customer-behavior-prediction) | AI model for predicting customer behavior & retention. | Python, Scikit-Learn, Power BI |
+| [Air Paradise Chatbot](https://github.com/liam237/air_paradise_chatbot) | AI-powered price prediction chatbot for airline tickets. | Python, Pandas, Jupyter Notebook, Power BI |
+| [Walmart Data Analysis](https://github.com/liam237/walmart-data-analysis) | Data-driven insights into Walmart sales trends. | Python, Jupyter Notebook, Power BI |
+| [Fishing Data Analysis](https://github.com/liam237/fishing-data-analysis) | Study of marine biodiversity and fishing trends. | R, RStudio, Seaborn, dplyr, RMarkdown |
+| [Customer Behavior Prediction](https://github.com/liam237/customer-behavior-prediction) | AI model for predicting customer behavior & retention. | Python, Scikit-Learn, Power BI |
 
 ---
 
