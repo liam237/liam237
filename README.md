@@ -27,14 +27,14 @@
 
 ## 👋 Hi, I'm William Fonkui!  
 
-💻 **Aspiring Data Scientist | Python | Machine Learning | Power BI**  
+**Aspiring Data Scientist | Python | Machine Learning | Power BI**  
 
-🌱 Currently studying **Data & AI** at **École IT Orléans**  
-🚀 Looking for an **apprenticeship** in Data Science  
+Currently studying **Data & AI** at **École IT Orléans**  
+Looking for an **apprenticeship** in Data Science  
 
 ---
 
-### 🚀 About Me
+### About Me
 - Passionate about AI, Data Science, and transforming data into insights.
 - Focused on **Machine Learning, Predictive Analytics, and Data Visualization**.
 - Enthusiastic about **Power BI, Python, and Cloud Technologies**.
@@ -47,7 +47,7 @@
 
 ---
 
-### 🚧 What I'm Working On
+### What I'm Working On
 - Improving my **Machine Learning** skills
 - Building **interactive dashboards with Power BI**
 - Learning **Azure & Databricks**
