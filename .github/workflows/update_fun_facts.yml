@@ -36,8 +36,8 @@ jobs:
           git diff
           if ! git diff --quiet README.md; then
             git add README.md
-            git commit -m "🔁 Update Fun Fact of the Month"
+            git commit -m "Update Fun Fact of the Month"
             git push
           else
-            echo "✅ No changes to commit."
+            echo "No changes to commit."
           fi
