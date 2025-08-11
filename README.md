@@ -19,11 +19,11 @@
 
 ---
 
-## 👋 Hi, I'm William Fonkui!  
+## Hi, I'm William Fonkui!  
 
-🎓 **Mastère 2 Architecture des Systèmes d’Informations – Spécialisation Data Science & Intelligence Artificielle** (RNCP 37178)  
-💡 Passionné par l’**exploitation de la donnée**, l’**IA** et le **développement d’applications**, je conçois des solutions qui allient **analyse avancée**, **visualisation impactante** et **développement full-stack**.  
-📍 Ouvert à des opportunités en **Data Science**, **Data Engineering** ou **Développement Web/App**.
+**Mastère 2 Architecture des Systèmes d’Informations – Spécialisation Data Science & Intelligence Artificielle** (RNCP 37178)  
+Passionné par l’**exploitation de la donnée**, l’**IA** et le **développement d’applications**, je conçois des solutions qui allient **analyse avancée**, **visualisation impactante** et **développement full-stack**.  
+📍 Ouvert à des opportunités en **Data Analyse**, **Data Science**, **Data Engineering** ou **Développement Web/App**.
 
 ---
 
@@ -67,7 +67,7 @@
 - Docker, Kubernetes, Helm  
 - Git, GitHub, GitLab CI/CD, Jenkins  
 
-### 📈 **En progression**
+### **En progression**
 - Apache Spark  
 - Airflow  
 - YOLOv8 (Computer Vision)  
@@ -77,7 +77,7 @@
 
 ---
 
-## 🤖 Artificial Intelligence & Machine Learning
+## Artificial Intelligence & Machine Learning
 - **Machine Learning** : Modèles prédictifs, classification, régression  
 - **Deep Learning** : CNN, RNN, LSTM, Transformers  
 - **NLP** : Analyse de sentiments, extraction d’entités, chatbots IA  
@@ -151,4 +151,4 @@
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500">
 </p>
 
-🚀 *Excited to collaborate on innovative Data, AI & Web Development projects!*
+*Excited to collaborate on innovative Data, AI & Web Development projects!*
