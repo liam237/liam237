@@ -27,7 +27,7 @@ Passionné par l’**exploitation de la donnée**, l’**IA** et le **développe
 
 ---
 
-### 🌟 About Me
+### About Me
 - Expert en **Python, Machine Learning, Power BI & SQL**  
 - Développeur d’**applications web & mobiles**  
 - Expérience en **ETL, BI, automatisation** et **visualisation interactive**  
@@ -36,7 +36,7 @@ Passionné par l’**exploitation de la donnée**, l’**IA** et le **développe
 
 ---
 
-### 💡 Inspiration  
+### Inspiration  
 📌 *"Without data, you’re just another person with an opinion."* – W. Edwards Deming  
 
 ---
