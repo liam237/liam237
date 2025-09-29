@@ -94,6 +94,7 @@ Passionné par l’**exploitation de la donnée**, l’**IA** et le **développe
 |-----------|-------------|----------------|
 | [Air Paradise Chatbot](https://github.com/liam237/air_paradise_chatbot) | Chatbot IA de prédiction de prix de billets d’avion. | Python, Pandas, Power BI |
 | [Walmart Data Analysis](https://github.com/liam237/walmart-data-analysis) | Analyse des tendances de ventes chez Walmart. | Python, Power BI |
+| [Bank Loan Analysis](https://github.com/liam237/bank-loan-analysis) | Analyse des prets bancaires. | Python, SQL, plt, scikit-learn Power BI |
 | [Fishing Data Analysis](https://github.com/liam237/fishing-data-analysis) | Étude biodiversité marine et tendances de pêche. | R, Seaborn, RMarkdown |
 | [Customer Behavior Prediction](https://github.com/liam237/customer-behavior-prediction) | Modèle prédictif de comportement client. | Python, Scikit-Learn, Power BI |
 
