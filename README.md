@@ -93,7 +93,7 @@ Passionné par l’**exploitation de la donnée**, l’**IA** et le **développe
 | Project | Description | Technologies |
 |-----------|-------------|----------------|
 | [Air Paradise Chatbot](https://github.com/liam237/air_paradise_chatbot) | Chatbot IA de prédiction de prix de billets d’avion. | Python, Pandas, Power BI |
-| [Telecom Churn Analysis](https://github.com/liam237/telecom_churn_analysis) | Analyse churn (clients) chez telecom. | SQL, Power BI |
+| [Telecom Churn Analysis](https://github.com/liam237/telecom-churn-analysis) | Analyse churn (clients) chez telecom. | SQL, Power BI |
 | [Walmart Data Analysis](https://github.com/liam237/walmart-data-analysis) | Analyse des tendances de ventes chez Walmart. | Python, Power BI |
 | [Bank Loan Analysis](https://github.com/liam237/bank-loan-analysis) | Analyse des prets bancaires. | Python, SQL, plt, scikit-learn Power BI |
 | [Fishing Data Analysis](https://github.com/liam237/fishing-data-analysis) | Étude biodiversité marine et tendances de pêche. | R, Seaborn, RMarkdown |
