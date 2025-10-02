@@ -7,7 +7,7 @@
 </p>
 
 <p align="right">
-  <a href="https://github.com/liam237/liam237/blob/main/William_Fonkui.pdf" target="_blank">
+  <a href="https://github.com/liam237/liam237/blob/main/CV DATA ANALYST SCIENTIST FONKUI.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄 Télécharger%20mon%20CV-bleu?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
   </a>
   <a href="https://forms.gle/L31yDHKAx9y9tyyQ8" target="_blank">
